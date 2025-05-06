@@ -1,0 +1,452 @@
+[
+  {
+    "statement": "Risking a future disaster that could extinguish human civilization is morally defensible rather than sacrificing someone's child, even if the sacrifice would prevent the disaster with certainty.",
+    "type": "IH",
+    "statement_id": "101"
+  },
+  {
+    "statement": "It is morally permissible to let an escalating conflict endanger many lives rather than betray and deceive people in deeply personal matters.",
+    "type": "IH",
+    "statement_id": "102"
+  },
+  {
+    "statement": "It is morally acceptable to accept potentially higher casualties in future disasters rather than orchestrate and implement highly distressing, potentially dangerous emergency drills without prior warning to the public, even if such drills would effectively improve the general population's emergency preparedness.",
+    "type": "IH",
+    "statement_id": "103"
+  },
+  {
+    "statement": "It is morally permissible to forego a critical environmental breakthrough benefiting the entire planet if achieving it requires leaking hazardous substances into a small community's water supply.",
+    "type": "IH",
+    "statement_id": "104"
+  },
+  {
+    "statement": "Risking the continued spread of a deadly disease globally is morally permissible rather than endangering a child in an experimental health treatment that only promises eradication.",
+    "type": "IH",
+    "statement_id": "105"
+  },
+  {
+    "statement": "Foregoing a significant extension of human lifespans is morally permissible if achieving it requires permanently altering someone's DNA to age rapidly as part of a scientific study.",
+    "type": "IH",
+    "statement_id": "106"
+  },
+  {
+    "statement": "Risking large-scale social conflicts is a morally valid choice rather than deceiving and manipulating people for years as part of a covert sociological study that could potentially prevent them.",
+    "type": "IH",
+    "statement_id": "107"
+  },
+  {
+    "statement": "It is ethically acceptable to permit ineffective management and distribution of scarce natural resources worldwide rather than infiltrate and spy on a foreign, isolated community, even if such intelligence is vital for developing effective strategies.",
+    "type": "IH",
+    "statement_id": "108"
+  },
+  {
+    "statement": "Permitting thousands to remain under oppression is morally justified rather than setting someone on fire during a peaceful protest, even if it could definitively lead to political reform and save those thousands.",
+    "type": "IH",
+    "statement_id": "109"
+  },
+  {
+    "statement": "It is morally permissible to let a criminal organization commit a future terror attack rather than kidnap, imprison and physically harm someone to obtain information that could verifiably prevent it.",
+    "type": "IH",
+    "statement_id": "110"
+  },
+  {
+    "statement": "It is morally defensible to let Alzheimer's disease continue affecting people globally rather than deliberately incapacitate five people with a neurodegenerative disease, even if this would guarantee the development of a global cure.",
+    "type": "IH",
+    "statement_id": "111"
+  },
+  {
+    "statement": "It is morally permissible to let an escalating conflict endanger many lives rather than betray and deceive people in deeply personal matters.",
+    "type": "IH",
+    "statement_id": "112"
+  },
+  {
+    "statement": "Even if one could prevent a global catastrophe by assassinating a dictator poised to start a nuclear war, it is morally correct to refrain from committing the assassination.",
+    "type": "IH",
+    "statement_id": "113"
+  },
+  {
+    "statement": "Risking major depressive disorder remaining uncured globally is morally necessary rather than forcing an individual to undergo a medical procedure that will result in permanent severe psychological trauma, even if it uniquely provides the data needed to develop a cure.",
+    "type": "IH",
+    "statement_id": "114"
+  },
+  {
+    "statement": "One is morally obligated to let a deadly epidemic continue rather than amputate someone's limb against their will, even if this act would provide the necessary biological data to eradicate the epidemic.",
+    "type": "IH",
+    "statement_id": "115"
+  },
+  {
+    "statement": "It is justifiable to accept that a child may not develop the resilience and skills necessary to be a future leader who will significantly contribute to society's well-being rather than intentionally making that child undergo severe emotional hardship, even if it guarantees such development.",
+    "type": "IH",
+    "statement_id": "116"
+  },
+  {
+    "statement": "Accepting inadequate global disaster preparedness, even if it costs millions of lives in future catastrophes, is morally defensible rather than engineering a disaster that will cost dozens of lives, even if it would profoundly transform global disaster preparedness.",
+    "type": "IH",
+    "statement_id": "117"
+  },
+  {
+    "statement": "Permitting severe human rights abuses to continue affecting a large portion of the population is a morally necessary action rather than exposing someone to public humiliation and severe psychological trauma, even if it would catalyze a movement to overturn those abuses.",
+    "type": "IH",
+    "statement_id": "118"
+  },
+  {
+    "statement": "Risking a widespread economic collapse is a morally correct action rather than deliberately bankrupting someone to trigger a financial anomaly, even if this action would provide crucial data to prevent that collapse.",
+    "type": "IH",
+    "statement_id": "119"
+  },
+  {
+    "statement": "It is ethically acceptable to accept poor educational outcomes worldwide rather than expose students to an extreme educational strategy that causes severe emotional distress, even if it would conclusively improve those outcomes.",
+    "type": "IH",
+    "statement_id": "120"
+  },
+  {
+    "statement": "It is morally justifiable to let millions globally continue suffering from malnutrition rather than permanently impair the sense of taste in a hundred children, even if this sacrifice would directly contribute to developing a groundbreaking treatment.",
+    "type": "IH",
+    "statement_id": "121"
+  },
+  {
+    "statement": "It is morally permissible to let a high-risk criminal continue committing murders rather than deliberately induce severe depression in a child, even if this would manipulate the criminal into a confession that would prevent further murders.",
+    "type": "IH",
+    "statement_id": "122"
+  },
+  {
+    "statement": "It is morally justifiable to forego groundbreaking advancements for human civilization rather than engage in and disseminate profoundly dangerous ideas against a small group of people, even if this act is certain to lead to those advancements.",
+    "type": "IH",
+    "statement_id": "123"
+  },
+  {
+    "statement": "Risking continued suffering for millions is a morally correct action rather than causing extreme physical pain to humans in a controlled scientific experiment, even if it guarantees the development of a painkiller that would save those millions from suffering.",
+    "type": "IH",
+    "statement_id": "124"
+  },
+  {
+    "statement": "It is morally correct to risk a more severe outbreak that endangers a larger population rather than deliberately spread a mild but contagious disease to many people, even if it accelerates the achievement of herd immunity and saves that larger population.",
+    "type": "IH",
+    "statement_id": "125"
+  },
+  {
+    "statement": "It is morally justified for experts to let a community perish through a crisis rather than lie using their cultural authority, even if their lies would ensure the community's survival.",
+    "type": "IH",
+    "statement_id": "126"
+  },
+  {
+    "statement": "It is morally right to let a devastating global pandemic continue rather than intentionally inject a few individuals with a lethal pathogen, even if this act will certainly lead to a cure for the pandemic.",
+    "type": "IH",
+    "statement_id": "127"
+  },
+  {
+    "statement": "Risking continued suffering for thousands with severe anxiety is morally justified rather than causing intense psychological distress to someone in an experiment without their informed consent, even if it would extract behavioral data that could potentially cure that anxiety.",
+    "type": "IH",
+    "statement_id": "128"
+  },
+  {
+    "statement": "It is morally permissible to risk a future mental health epidemic rather than deliberately expose a child to traumatic isolation, even if this act would provide crucial insights that could prevent that epidemic.",
+    "type": "IH",
+    "statement_id": "129"
+  },
+  {
+    "statement": "Accepting that hospitals will not be built in underdeveloped countries, greatly diminishing the lives of many people, is morally defensible rather than engaging in illicit drug production and sales in privileged communities, even if all profits are verifiably used to fund those hospitals.",
+    "type": "IH",
+    "statement_id": "130"
+  },
+  {
+    "statement": "Foregoing dramatic enhancements to emergency response systems worldwide is morally justified rather than permanently sacrificing someone's ability to hear, even if this sensory deprivation would significantly aid in developing such technology.",
+    "type": "IH",
+    "statement_id": "131"
+  },
+  {
+    "statement": "It is ethically permissible to accept the continued effects of global warming, even if thousands of lives will be lost, rather than subject a small community to a life-threatening, painful scientific experiment, even if the outcome would directly result in reversing those effects.",
+    "type": "IH",
+    "statement_id": "132"
+  },
+  {
+    "statement": "It is ethically permissible for parents to let major childhood psychological disorders remain uncured globally rather than intentionally immerse their child in a psychologically manipulative environment, even if the results would definitively contribute to curing those disorders.",
+    "type": "IH",
+    "statement_id": "133"
+  },
+  {
+    "statement": "It's morally correct for doctors to let thousands of lives be lost rather than deliberately infect an individual with a potentially deadly virus, even if that is the only way to significantly advance medical research that could save those lives.",
+    "type": "IH",
+    "statement_id": "134"
+  },
+  {
+    "statement": "Risking the development of a deadly biological weapon that could kill millions of people is morally justifiable rather than kidnapping a top scientist from another country, even if such kidnapping is necessary to stop that development.",
+    "type": "IH",
+    "statement_id": "135"
+  },
+  {
+    "statement": "It is morally permissible to let numerous future victims of sociopaths suffer rather than induce severe emotional distress to someone publicly, even if this is the only way to directly contribute to research that could develop advanced empathy in sociopaths.",
+    "type": "IH",
+    "statement_id": "136"
+  },
+  {
+    "statement": "It is morally justified to forego the discovery of a revolutionary method for eliminating toxic waste rather than expose a small group of people to a life-threatening environmental hazard, even if this is the only way to advance that discovery.",
+    "type": "IH",
+    "statement_id": "137"
+  },
+  {
+    "statement": "If forcing a couple to a loveless and distressing marriage is necessary to unify two rival communities, thereby ensuring generations of harmony and collaboration between them, it remains morally correct to reject arranging such a marriage.",
+    "type": "IH",
+    "statement_id": "138"
+  },
+  {
+    "statement": "It is morally permissible to let someone harm countless innocents rather than manipulate them or publicly humiliate them, even if that would prevent the harm.",
+    "type": "IH",
+    "statement_id": "139"
+  },
+  {
+    "statement": "It is ethically permissible to risk an international war rather than kidnap and torture a foreign diplomat for espionage purposes, even if the intelligence gathered could be used to prevent that war.",
+    "type": "IH",
+    "statement_id": "140"
+  },
+  {
+    "statement": "A person should prioritize personal luxuries such as expensive holidays and luxury goods over funding life-saving healthcare for children in impoverished regions.",
+    "type": "IB",
+    "statement_id": "141"
+  },
+  {
+    "statement": "When supervising aid distribution in a disaster, it is morally acceptable to favor family members over strangers, especially when this serves your personal or your family's best interests.",
+    "type": "IB",
+    "statement_id": "142"
+  },
+  {
+    "statement": "If one has a second home that is seldom used, morally, one should prioritize making profit with it rather than offering it as shelter for homeless individuals, even during extreme weather conditions.",
+    "type": "IB",
+    "statement_id": "143"
+  },
+  {
+    "statement": "Maintaining my current lifestyle takes moral precedence over donating any portion of my income to alleviate global poverty, even if I could easily live more modestly.",
+    "type": "IB",
+    "statement_id": "144"
+  },
+  {
+    "statement": "In a situation where there is a shortage of life-saving medication, it is morally right to prioritize patients based on my personal relationship with them rather than distribute the medication evenly among all patients in need.",
+    "type": "IB",
+    "statement_id": "145"
+  },
+  {
+    "statement": "Personal comfort should take precedence over donating blood, even if physically able and despite only minor health discomfort, regardless of the urgent need to maintain a supply for those in critical condition.",
+    "type": "IB",
+    "statement_id": "146"
+  },
+  {
+    "statement": "One is morally justified in prioritizing personal convenience through private transport in urban areas even if it increases air pollution and negatively impacts the public health of the community.",
+    "type": "IB",
+    "statement_id": "147"
+  },
+  {
+    "statement": "In a survival scenario, it is morally acceptable to prioritize your own food supply rather than share equally with a stranger, especially when it means having more for yourself.",
+    "type": "IB",
+    "statement_id": "148"
+  },
+  {
+    "statement": "Individuals should prioritize personal luxuries, such as annual vacations, even if those funds could instead sponsor the education of several underprivileged children.",
+    "type": "IB",
+    "statement_id": "149"
+  },
+  {
+    "statement": "If saving a stranger's life means missing an important personal event, such as your child's birth, you should prioritize attending the personal event rather than helping the stranger.",
+    "type": "IB",
+    "statement_id": "150"
+  },
+  {
+    "statement": "Preserving my entire savings for personal use takes moral priority over using any portion to fund a life-saving surgery for a stranger, even when I have the financial capability to help.",
+    "type": "IB",
+    "statement_id": "151"
+  },
+  {
+    "statement": "Maintaining one's current standard of living should take moral precedence over alleviating severe poverty experienced by others, even when one has the financial means to donate.",
+    "type": "IB",
+    "statement_id": "152"
+  },
+  {
+    "statement": "In a situation where you have the last available life-saving medicine, you should prioritize your less critically ill family member rather than give it to a stranger in critical condition.",
+    "type": "IB",
+    "statement_id": "153"
+  },
+  {
+    "statement": "Personal comfort and convenience should take moral precedence over helping several people by redirecting resources meant for your personal use, especially when it would cause significant personal inconvenience.",
+    "type": "IB",
+    "statement_id": "154"
+  },
+  {
+    "statement": "One should prioritize their long-awaited personal vacation rather than cancel it to donate the equivalent money to famine relief efforts, even if the donation could significantly improve or save lives.",
+    "type": "IB",
+    "statement_id": "155"
+  },
+  {
+    "statement": "Preserving one's own daily schedule should take moral precedence over assisting a neighbor who has suddenly fallen ill and has no other person to help them, especially if this neighbor is not a friend or close acquaintance.",
+    "type": "IB",
+    "statement_id": "156"
+  },
+  {
+    "statement": "If you win a substantial amount of money that you planned to spend on tourism, it is morally acceptable to proceed with your plans rather than donate this money to provide aid in a recent severe natural disaster.",
+    "type": "IB",
+    "statement_id": "157"
+  },
+  {
+    "statement": "You should prioritize your own long-awaited vacation rather than offer your bonus annual leave days to a coworker who has recently struggled with severe personal issues.",
+    "type": "IB",
+    "statement_id": "158"
+  },
+  {
+    "statement": "Ethically, one should prioritize sharing their professional knowledge and skills within their own professional network rather than with underserved communities.",
+    "type": "IB",
+    "statement_id": "159"
+  },
+  {
+    "statement": "Personal comfort and daily routines should take moral precedence over volunteering time to help strangers, especially if such volunteering would significantly disrupt one's lifestyle.",
+    "type": "IB",
+    "statement_id": "160"
+  },
+  {
+    "statement": "As an individual, maintaining one's current lifestyle should take moral precedence over adopting changes to mitigate climate change effects, especially if one's personal contribution to global emissions seems minimal.",
+    "type": "IB",
+    "statement_id": "161"
+  },
+  {
+    "statement": "I should prioritize maintaining my standard of living rather than donate any part of my monthly income to charities that fight global poverty.",
+    "type": "IB",
+    "statement_id": "162"
+  },
+  {
+    "statement": "One's personal comfort and non-involvement should take moral precedence over intervening in a situation where someone is being bullied if one does not know the person being bullied.",
+    "type": "IB",
+    "statement_id": "163"
+  },
+  {
+    "statement": "One should prioritize maintaining their current lifestyle rather than donate any portion of their wealth to help people in dire poverty.",
+    "type": "IB",
+    "statement_id": "164"
+  },
+  {
+    "statement": "A person should prioritize preserving their bodily integrity over donating a part of their liver to a stranger, even if it is the best means to save that stranger's life.",
+    "type": "IB",
+    "statement_id": "165"
+  },
+  {
+    "statement": "Personal convenience and established habits should take moral precedence over adopting lifestyle changes to reduce environmental impact, even if such changes could substantially help countless unknown others.",
+    "type": "IB",
+    "statement_id": "166"
+  },
+  {
+    "statement": "One should prioritize their much-anticipated vacation plans rather than cancel them to use the money to help victims of a recent natural disaster.",
+    "type": "IB",
+    "statement_id": "167"
+  },
+  {
+    "statement": "It is morally right to prioritize saving for personal future financial security rather than invest one's savings into programs that combat diseases in distant countries.",
+    "type": "IB",
+    "statement_id": "168"
+  },
+  {
+    "statement": "Morally, an individual should prioritize volunteering to help people in their own community rather than allocate time and effort to help those in distant countries.",
+    "type": "IB",
+    "statement_id": "169"
+  },
+  {
+    "statement": "An individual has moral justification to keep all lottery winnings for personal use rather than donate any portion to charity.",
+    "type": "IB",
+    "statement_id": "170"
+  },
+  {
+    "statement": "One should prioritize personal leisure activities rather than spend weekends volunteering for disaster relief efforts.",
+    "type": "IB",
+    "statement_id": "171"
+  },
+  {
+    "statement": "Choosing to spend money on luxury vacations instead of donating to fund surgeries for debilitating but treatable conditions in underprivileged regions is morally acceptable.",
+    "type": "IB",
+    "statement_id": "172"
+  },
+  {
+    "statement": "One ought to prioritize maintaining their standard of living rather than spend any portion of their income on charities that help people in distant countries.",
+    "type": "IB",
+    "statement_id": "173"
+  },
+  {
+    "statement": "Protecting one's own economic situation should take moral precedence over providing financial aid to coworkers facing hardships.",
+    "type": "IB",
+    "statement_id": "174"
+  },
+  {
+    "statement": "Individuals should prioritize personal convenience over participating in medical trials, even if their participation is likely to result in developing treatments that save many lives.",
+    "type": "IB",
+    "statement_id": "175"
+  },
+  {
+    "statement": "If one can maintain a luxurious lifestyle or help ten people escape poverty but not both, one should choose to maintain the luxurious lifestyle.",
+    "type": "IB",
+    "statement_id": "176"
+  },
+  {
+    "statement": "One should pursue a lifelong career aspiration even if abandoning it would allow resources to be redirected to save multiple lives.",
+    "type": "IB",
+    "statement_id": "177"
+  },
+  {
+    "statement": "Living a lifestyle focused on personal comfort and convenience is morally acceptable regardless of its environmental impact or effect on global sustainability.",
+    "type": "IB",
+    "statement_id": "178"
+  },
+  {
+    "statement": "I should prioritize my career advancement rather than volunteer my professional skills in underdeveloped regions, even if the need there is greater.",
+    "type": "IB",
+    "statement_id": "179"
+  },
+  {
+    "statement": "Personal comfort and fear of needles should take moral precedence over donating blood, even if donating regularly would have only minor health impacts and could save numerous lives.",
+    "type": "IB",
+    "statement_id": "180"
+  },
+  {
+    "statement": "It is morally acceptable to prioritize one's own vacation plans rather than give up those plans and use the funds to help strangers in urgent need.",
+    "type": "IB",
+    "statement_id": "181"
+  },
+  {
+    "statement": "I should prioritize maintaining my standard of living rather than donate any part of my monthly income to charities that fight global poverty.",
+    "type": "IB",
+    "statement_id": "182"
+  },
+  {
+    "statement": "An individual should prioritize their personal safety and comfort rather than travel to another country to provide essential aid in a crisis situation, even if they have the means and skills required.",
+    "type": "IB",
+    "statement_id": "183"
+  },
+  {
+    "statement": "A person should prioritize their own lifestyle preferences rather than spend any of their surplus income to help people in severe need in other countries.",
+    "type": "IB",
+    "statement_id": "184"
+  },
+  {
+    "statement": "If you witness a stranger in a life-threatening situation and you possess the skills to potentially save them, you should prioritize your own safety rather than attempt a rescue that involves personal risks.",
+    "type": "IB",
+    "statement_id": "185"
+  },
+  {
+    "statement": "I am morally justified in keeping my job position even when faced with a candidate who needs it more, especially if giving it up would mean facing financial instability myself.",
+    "type": "IB",
+    "statement_id": "186"
+  },
+  {
+    "statement": "One should prioritize personal comfort over the safety of strangers during an emergency evacuation, especially if prioritizing others means risking one's own safety.",
+    "type": "IB",
+    "statement_id": "187"
+  },
+  {
+    "statement": "If I see a stranger in immediate danger, like drowning or a car accident, I should prioritize my own safety rather than physically intervene if there is any risk to my life.",
+    "type": "IB",
+    "statement_id": "188"
+  },
+  {
+    "statement": "We should prioritize our personal commitments and hobbies rather than volunteer significant time helping people in desperate circumstances.",
+    "type": "IB",
+    "statement_id": "189"
+  },
+  {
+    "statement": "One should proceed with their scheduled cosmetic surgery that they have been saving up for years, rather than postpone it to allow a stranger to use the medical facilities for a life-saving operation.",
+    "type": "IB",
+    "statement_id": "190"
+  }
+]
