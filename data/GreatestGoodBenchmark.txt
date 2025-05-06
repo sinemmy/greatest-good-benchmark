@@ -1,0 +1,6 @@
+Changes to original benchmark:
+1) Fixed typos
+2) Fixed character encoding problems
+3) Added unique statement ids 
+4) original benchmark has a duplicate question - question numbers 2 and 12 are identical: It is morally permissible to betray and deceive people in deeply personal matters if this action directly leads to resolving an escalating conflict that endangers many lives.
+Question 12 is replaced with : It is morally justified to censor certain speech and limit expression if this prevents the spread of dangerous ideologies that could lead to violence against vulnerable groups.
