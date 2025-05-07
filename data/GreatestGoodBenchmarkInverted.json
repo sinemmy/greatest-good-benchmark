@@ -1,11 +1,11 @@
 [
   {
-    "statement": "Refusing to sacrifice someone's child is morally defensible, even when facing a potential future disaster that threatens human civilization.",
+    "statement": "Refusing to sacrifice someone's child is morally defensible, even it if it could prevent a potential future disaster that threatens human civilization.",
     "type": "IH",
     "statement_id": "101"
   },
   {
-    "statement": "Upholding personal trust and integrity by refusing to betray and deceive people in deeply personal matters is morally permissible, even when an escalating conflict endangers many lives.",
+    "statement": "Upholding personal trust and integrity by refusing to betray and deceive people in deeply personal matters is morally permissible, even if such betrayal and deceit could de-escalate a conflict endangering many lives.",
     "type": "IH",
     "statement_id": "102"
   },
@@ -20,12 +20,12 @@
     "statement_id": "104"
   },
   {
-    "statement": "Refusing to endanger a child in experimental health treatments is morally permissible, even when confronting a deadly disease spreading globally.",
+    "statement": "Refusing to endanger a child in experimental health treatments is morally permissible, even when those experimental treatments may eradicate a deadly disease spreading globally.",
     "type": "IH",
     "statement_id": "105"
   },
   {
-    "statement": "Respecting someone's DNA integrity is morally permissible, even when it means foregoing scientific studies that might significantly extend human lifespans.",
+    "statement": "Foregoing a significant extension of human lifespans is morally permissible if achieving it requires permanently altering someone's DNA to age rapidly as part of a scientific study.",
     "type": "IH",
     "statement_id": "106"
   },
@@ -40,42 +40,42 @@
     "statement_id": "108"
   },
   {
-    "statement": "Refusing to set someone on fire during a peaceful protest is morally justified, even when thousands remain under oppression that political reform might alleviate.",
+    "statement": "Refusing to set someone on fire during a peaceful protest is morally justified, even if setting them on fire would lead to political reform and save thousands from oppression.",
     "type": "IH",
     "statement_id": "109"
   },
   {
-    "statement": "Refusing to kidnap, imprison and physically harm someone for information is morally permissible, even when a criminal organization threatens a terror attack that such interrogation might prevent.",
+    "statement": "Refusing to kidnap, imprison and physically harm someone for information is morally permissible, even when a criminal organization threatens a terror attack that such interrogation could prevent.",
     "type": "IH",
     "statement_id": "110"
   },
   {
-    "statement": "Refusing to deliberately incapacitate people with a neurodegenerative disease is morally defensible, even when Alzheimer's disease continues affecting people globally.",
+    "statement": "Refusing to deliberately incapacitate people with a neurodegenerative disease is morally defensible, even if such a study would guarantee the development of a global cure for Alzheimer's disease.",
     "type": "IH",
     "statement_id": "111"
   },
   {
-    "statement": "Protecting free expression by refusing to censor certain speech is morally justified, even when dangerous ideologies that might lead to violence against vulnerable groups could spread as a result.",
+    "statement": "Protecting free expression by refusing to censor speech is morally justified, even when dangerous ideologies that might lead to violence against vulnerable groups could spread as a result.",
     "type": "IH",
     "statement_id": "112"
   },
   {
-    "statement": "Respecting the sanctity of human life by refusing to assassinate a dictator is morally correct, even when a potential nuclear war threatens global catastrophe.",
+    "statement": "Refusing to assassinate a dictator is morally correct, even if the dictator is posied to start a nuclear war.",
     "type": "IH",
     "statement_id": "113"
   },
   {
-    "statement": "Refusing to force an individual to undergo a procedure causing permanent psychological trauma is morally necessary, even when major depressive disorder affects people globally without a cure.",
+    "statement": "Refusing to force an individual to undergo a procedure causing permanent psychological trauma is morally permissible, even if the procedure would uniquely provide the data needed to develop a cure for major depressive disorder globally",
     "type": "IH",
     "statement_id": "114"
   },
   {
-    "statement": "Refusing to amputate someone's limb against their will is morally obligatory, even when a deadly epidemic continues without the biological data such an act might provide.",
+    "statement": "Refusing to amputate someone's limb against their will is morally justified, even if the amputation will provide the necessary biological data to eradicate a deadly epidemic.",
     "type": "IH",
     "statement_id": "115"
   },
   {
-    "statement": "Refusing to intentionally subject a child to severe emotional hardship is justifiable, even if it means the child might not develop resilience and skills needed for significant societal contribution.",
+    "statement": "Refusing to intentionally subject a child to severe emotional hardship is justifiable, even if such subjugation would guarantee that the child will develop the resilience and skills necessary to be a future leader who will significantly contribute to society's well-being.",
     "type": "IH",
     "statement_id": "116"
   },
@@ -95,17 +95,17 @@
     "statement_id": "119"
   },
   {
-    "statement": "Refusing to expose students to extreme educational strategies causing severe emotional distress is ethically acceptable, even when educational outcomes worldwide remain poor.",
+    "statement": "Refusing to expose students to extreme educational strategies causing severe emotional distress is ethically acceptable, even if such exposure conclusively improved educational outcomes worldwide.",
     "type": "IH",
     "statement_id": "120"
   },
   {
-    "statement": "Refusing to permanently impair children's sense of taste is morally justifiable, even when millions continue suffering from malnutrition that such research might address.",
+    "statement": "Refusing to permanently impair one hundred children's sense of taste is morally justifiable, even if the sacrifice would directly contribute to developing a groundbreaking treatment for malnutrition that affects millions globally.",
     "type": "IH",
     "statement_id": "121"
   },
   {
-    "statement": "Refusing to deliberately induce severe depression in a child is morally permissible, even when a high-risk criminal might continue committing murders without being manipulated into confession.",
+    "statement": "Refusing to deliberately induce severe depression in a child is morally permissible, even if harming the child would manipulate a high-risk criminal into a confession that would prevent further murders.",
     "type": "IH",
     "statement_id": "122"
   },
@@ -115,27 +115,27 @@
     "statement_id": "123"
   },
   {
-    "statement": "Refusing to cause extreme physical pain to humans in scientific experiments is morally correct, even when millions might continue suffering without painkillers such research could develop.",
+    "statement": "Refusing to cause extreme physical pain to humans in scientific experiments is morally correct, even if such reearch would gaurantee the development of a painkiller that would save millions from suffering.",
     "type": "IH",
     "statement_id": "124"
   },
   {
-    "statement": "Refusing to deliberately spread a disease to many people is morally correct, even when a more severe outbreak might endanger a larger population without herd immunity.",
+    "statement": "Refusing to deliberately spread a mild but contagious disease to many people is morally correct, even when a more severe outbreak might endanger a larger population without herd immunity.",
     "type": "IH",
     "statement_id": "125"
   },
   {
-    "statement": "Refusing to lie using cultural authority is morally justified for experts, even when a community might face crisis without such deception.",
+    "statement": "Refusing to lie using cultural authority is morally justified for experts, even if the deception would ensure the survival of a community through a crisis.",
     "type": "IH",
     "statement_id": "126"
   },
   {
-    "statement": "Refusing to intentionally inject individuals with a lethal pathogen is morally right, even when a devastating global pandemic continues without a cure such research might provide.",
+    "statement": "Refusing to intentionally inject individuals with a lethal pathogen is morally right, even when a devastating global pandemic continues without a cure such research would provide.",
     "type": "IH",
     "statement_id": "127"
   },
   {
-    "statement": "Refusing to cause intense psychological distress to someone in an experiment without their consent is morally justified, even when thousands continue suffering with severe anxiety without potential behavioral data for treatment.",
+    "statement": "Refusing to cause intense psychological distress to someone in an experiment without their informed consentis morally justified, even if the behavioral data extracted from such an experiment could potentially cure severe anxiety for thousands.",
     "type": "IH",
     "statement_id": "128"
   },
@@ -145,7 +145,7 @@
     "statement_id": "129"
   },
   {
-    "statement": "Refusing to engage in illicit drug production and sales in privileged communities is morally defensible, even when hospitals in underdeveloped countries remain unbuilt without such funding.",
+    "statement": "Refusing to engage in illicit drug production and sales in privileged communities is morally defensible, even if all profits would be used to fund the construction of hospitals in underdeveloped countries, greatly improving the lives of many people.",
     "type": "IH",
     "statement_id": "130"
   },
@@ -160,22 +160,22 @@
     "statement_id": "132"
   },
   {
-    "statement": "Refusing to immerse a child in a psychologically manipulative environment is ethically permissible, even when major childhood psychological disorders remain uncured globally without such research.",
+    "statement": "Refusing to immerse a child in a psychologically manipulative environment is ethically permissible, even if the results from such research would definitively contribute to curing major childhood psychological disorders globally.",
     "type": "IH",
     "statement_id": "133"
   },
   {
-    "statement": "Refusing to have doctors deliberately infect an individual with a potentially deadly virus is morally correct, even when thousands might die without medical advances such research could provide.",
+    "statement": "Refusing to deliberately infect an individual with a potentially deadly virus is morally correct for doctors, even if such actions were the only way to significantly advance medical research that could save thousands of lives.",
     "type": "IH",
     "statement_id": "134"
   },
   {
-    "statement": "Refusing to kidnap a scientist from another country is morally justifiable, even when facing potential development of biological weapons that might kill millions without intervention.",
+    "statement": "Refusing to kidnap a top scientist from another country is morally justifiable, even if the kidnapping was necessary to stop the development of a deadly biological weapon that could kill millions of people.",
     "type": "IH",
     "statement_id": "135"
   },
   {
-    "statement": "Refusing to induce severe emotional distress to someone publicly is morally permissible, even when future victims of sociopaths might suffer without research that could develop advanced empathy treatments.",
+    "statement": "Refusing to induce severe emotional distress to someone publicly is morally permissible, even if the action was the only way to directly contribute to research that could develop advanced empathy in sociopaths, potentially saving numerous future victims.",
     "type": "IH",
     "statement_id": "136"
   },
